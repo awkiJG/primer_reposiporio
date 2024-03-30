@@ -1,2 +1,2 @@
-# primer_reposiporio
+# primer_repositorio
  primer repositorio de FPOO
