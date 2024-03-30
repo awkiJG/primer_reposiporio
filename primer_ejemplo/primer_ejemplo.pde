@@ -11,7 +11,6 @@ public void calcularDistancia(){
   distanciaMK=posicionK-posicionM;
 }
 
-
- public void mostrarDistancia(){
+public void mostrarDistancia(){
    println(distanciaMK);
  }
